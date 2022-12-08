@@ -5,4 +5,4 @@
 ---
 
 
-#### 참고 : https://github.com/MangKyu/stream-quiz
+#### 출처 : https://github.com/MangKyu/stream-quiz
