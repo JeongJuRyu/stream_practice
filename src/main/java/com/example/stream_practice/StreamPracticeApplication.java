@@ -21,6 +21,9 @@ public class StreamPracticeApplication {
         for(String key : answer.keySet()){
             System.out.println(key + " : " + answer.get(key));
         }
+
+        int quiz3Answer = quiz1.quiz3();
+        System.out.println(quiz3Answer);
     }
 
 }
